@@ -1,0 +1,59 @@
+/*reset*/
+/*page*/
+body{
+	color: #000000;
+	font-size: 14px;
+	font-family: arial;
+	width: 960px;
+	margin-left: 50px;
+}
+dt{
+	background: #aa3322;
+	border: #cccccc;
+	color: #cccccc;
+	font-size: 12px;
+	width: 960px;
+	margin: 0px;
+}
+dl:color{
+	color: #ffffff;
+}
+/*titraille*/
+h1{
+	color: #aa3322;
+	font-size: 20px;
+}
+h2{
+	color: #000000;
+	font-size: 24px;
+}
+h3{
+	color: #000000;
+	font-size: 18px;
+}
+table{border-collapse: collapse;}
+th{border: 1px solid #aa3322; padding: 5px; font-size: 14px;}
+td{border: 1px solid #aa3322; padding: 5px; font-size: 12px;}
+/*lien*/
+a{
+	color: #aa3322;
+	font-size: 14px;
+}
+a:hover{
+	color: #aaaaaa;
+}
+blockquote{
+	background: #ededed;
+	border:1px #aa3322 solid;
+	color: #000000;
+	font-size: 16px;
+	width: 450px;
+}
+footer{
+	background: #aaaaaa;
+	color: #721717;
+	font-size: 14px;
+	width: 960px;
+	height:60px;
+	text-align: center;
+}
